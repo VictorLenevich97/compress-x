@@ -1,4 +1,4 @@
-# 🚀 Agile Poker Hub
+# 🚀 CompressX
 
 ### Boilerplate
 
